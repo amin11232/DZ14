@@ -1,0 +1,265 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.tr{
+display: flex;
+gap: 40px;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+height: 1024px;
+width: 1140px;
+margin-left: 200px;
+}
+.pr{
+background-color: #995DB5;
+width: 240px;
+height: 240px;
+border: 1px solid #000;
+border-radius: 8px;
+display: flex;
+gap: 8px;
+justify-content: flex-start;
+padding-top: 8px;
+padding-left: 8px;
+padding-right: 8px;
+padding-bottom: 8px;
+}
+.pt{
+background-color: #995DB5;
+width: 240px;
+height: 240px;
+border: 1px solid #000;
+border-radius: 8px;
+display: flex;
+gap: 8px;
+flex-direction: column;
+padding-top: 8px;
+padding-left: 8px;
+padding-right: 8px;
+padding-bottom: 8px;
+}
+.py{
+background-color: #995DB5;
+width: 240px;
+height: 240px;
+border: 1px solid #000;
+border-radius: 8px;
+display: flex;
+gap: 8px;
+padding-top: 8px;
+padding-left: 8px;
+padding-right: 4px;
+flex-wrap: wrap;
+}
+.pu{
+background-color: #995DB5;
+width: 240px;
+height: 240px;
+border: 1px solid #000;
+border-radius: 8px;
+display: flex;
+gap: 8px;
+padding-top: 8px;
+padding-left: 8px;
+padding-right: 8px;
+padding-bottom: 8px;
+justify-content: space-between;
+}
+.pi{
+background-color: #995DB5;
+width: 240px;
+height: 240px;
+border: 1px solid #000;
+border-radius: 8px;
+display: flex;
+gap: 8px;
+padding-top: 8px;
+padding-left: 8px;
+padding-right: 8px;
+padding-bottom: 8px;
+}
+.po{
+background-color: #995DB5;
+width: 240px;
+height: 240px;
+border: 1px solid #000;
+border-radius: 8px;
+display: flex;
+gap: 8px;
+padding-top: 8px;
+padding-left: 8px;
+padding-right: 8px;
+padding-bottom: 8px;
+justify-content: flex-end;
+}
+.pp{
+background-color: #995DB5;
+width: 240px;
+height: 240px;
+border: 1px solid #000;
+border-radius: 8px;
+display: flex;
+gap: 8px;
+padding-top: 8px;
+padding-left: 8px;
+padding-right: 8px;
+padding-bottom: 8px;
+justify-content: center;
+}
+.pa{
+background-color: #995DB5;
+width: 240px;
+height: 240px;
+border: 1px solid #000;
+border-radius: 8px;
+display: flex;
+gap: 8px;
+padding-top: 8px;
+padding-left: 8px;
+padding-right: 8px;
+padding-bottom: 8px;
+justify-content: space-between;
+}
+.ps{
+background-color: #995DB5;
+width: 240px;
+height: 240px;
+border: 1px solid #000;
+border-radius: 8px;
+display: flex;
+gap: 8px;
+padding-top: 8px;
+padding-left: 8px;
+padding-right: 8px;
+padding-bottom: 8px;
+}
+.pd{
+background-color: #995DB5;
+width: 240px;
+height: 240px;
+border: 1px solid #000;
+border-radius: 8px;
+display: flex;
+gap: 8px;
+padding-top: 8px;
+padding-left: 8px;
+padding-right: 8px;
+padding-bottom: 8px;
+align-items: flex-end;
+}
+.pf{
+background-color: #995DB5;
+width: 240px;
+height: 240px;
+border: 1px solid #000;
+border-radius: 8px;
+display: flex;
+gap: 8px;
+padding-top: 8px;
+padding-left: 8px;
+padding-right: 8px;
+padding-bottom: 8px;
+align-items: center;
+}
+.pg{
+ background-color: #995DB5;
+ width: 240px;
+ height: 240px;
+ border: 1px solid #000;
+ border-radius: 8px;
+ display: flex;
+ gap: 8px;
+ padding-top: 8px;
+ padding-left: 8px;
+ padding-right: 8px;
+ padding-bottom: 8px;
+ justify-content: space-around;
+}
+
+.q{
+width: 50px;
+height: 50px;
+border-radius: 8px;
+border: 1px solid #000;
+background-color: #F7941F;
+}
+.w{
+width: 50px;
+height: 50px;
+border-radius: 8px;
+border: 1px solid #000;
+background-color: #F7941F;
+}
+.e{
+width: 50px;
+height: 50px;
+border-radius: 8px;
+border: 1px solid #000;
+background-color: #F7941F;
+}
+.r{
+width: 50px;
+height: 50px;
+border-radius: 8px;
+border: 1px solid #000;
+background-color: #F7941F;
+}
+.t{
+width: 50px;
+height: 50px;
+border-radius: 8px;
+border: 1px solid #000;
+background-color: #F7941F;
+}
+.y{
+width: 50px;
+height: 50px;
+border-radius: 8px;
+border: 1px solid #000;
+background-color: #F7941F;
+}
+.u{
+width: 50px;
+height: 50px;
+border-radius: 8px;
+border: 1px solid #000;
+background-color: #F7941F;
+}
+.i{
+width: 50px;
+height: 50px;
+border-radius: 8px;
+border: 1px solid #000;
+background-color: #F7941F;
+}
+.o{
+width: 50px;
+height: 50px;
+border-radius: 8px;
+border: 1px solid #000;
+background-color: #F7941F;
+}
+.p{
+width: 50px;
+height: 50px;
+border-radius: 8px;
+border: 1px solid #000;
+background-color: #F7941F;
+}
+.a{
+width: 50px;
+height: 50px;
+border-radius: 8px;
+border: 1px solid #000;
+background-color: #F7941F;
+}
+.s{
+width: 50px;
+height: 50px;
+border-radius: 8px;
+border: 1px solid #000;
+background-color: #F7941F;
+}
